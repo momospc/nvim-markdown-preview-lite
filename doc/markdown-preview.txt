@@ -1,0 +1,15 @@
+*markdown-preview*
+
+Markdown Preview Lite for Neovim
+
+COMMANDS
+  :MarkdownPreview
+    Opens a split window with HTML preview of the current markdown file.
+
+REQUIREMENTS
+  - pandoc
+
+AUTHOR
+  (momospc)[https://github.com/momospc]
+
+
